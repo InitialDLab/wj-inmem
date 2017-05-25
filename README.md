@@ -20,7 +20,7 @@ All source code of this work is released under Apache License 2.0.
 
 ## Authors
 
-Zhuoyue Zhao: zyzhao [at] cs [dot] utah [dot] edu (contact author) <br/>
 Bin Wu: bwuac [at] cse [dot] ust [dot] hk <br/>
+Zhuoyue Zhao: zyzhao [at] cs [dot] utah [dot] edu (contact author) <br/>
 Feifei Li: lifeifei [at] cs [dot] utah [dot] edu <br/>
 Ke Yi: yike [at] cse [dot] ust [dot] hk <br/>
