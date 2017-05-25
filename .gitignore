@@ -1,0 +1,5 @@
+data/
+debug/
+release/
+include/*.gch
+log/
